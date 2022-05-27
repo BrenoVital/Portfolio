@@ -653,7 +653,7 @@ footer{
     }
 
     .img{
-        background: #000 url(../Assets/Images/991px.png) no-repeat;
+        background: #111111 url(../Assets/Images/991px.png) no-repeat;
         background-position: 100%;
     }
 }
@@ -673,7 +673,7 @@ footer{
     }
 
     .img{
-        background: #000;
+        background: #111111;
         background-position: 100%;
     }
 
@@ -689,7 +689,7 @@ footer{
         height: 100vh;
         left: 0;
         top: 0;
-        background: #111;
+        background: #111111;
         padding-top: 80px;
         text-align: center;
     }
